@@ -1,5 +1,5 @@
 export default {
-  name: 'user',
+  name: 'pin',
   title: 'Pin',
   type: 'document',
   fields: [
